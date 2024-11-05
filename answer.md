@@ -32,4 +32,26 @@ En revenant, dans le dernier commit avec checkout, le fichier README.md a été 
 
 ### Task 7
 
+1: c'est le nom de la branche
+
+2: c'est l'indentifiant du commit
+
+3 : indique que la branche feature-auth a été merger dans la branche de développement 
+
+4 : c'est le nom et l'email de la personne qui a mergé les fichiers
+
+5 : c'est la version du projet
+
+6 : c'est un merge, c'est-à-dire qu'on rassemble des fichiers
+
+7 : c'est une branche de développment pour ajouter une feature
+
+8 : dernière version du main
+
+9 : c'est un branche qui permet de développer en parrallèle
+
+10 : c'est l'initial commit, première version du projet
+
+
+
 ![Gitgraph](img/gitgraph.svg)
